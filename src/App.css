@@ -1,0 +1,18 @@
+nav{
+  background-color:rgb(238, 112, 22);
+}
+ul{
+  display:flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+a{
+  color: rgb(132, 149, 196);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover{
+  color:brown;
+}
